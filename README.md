@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node.js Rest APIs with Express & MySQL example
 
 For instruction, please visit:
@@ -71,3 +72,6 @@ npm install
 ```
 node server.js
 ```
+=======
+# nodejs-express-mysql
+>>>>>>> c1e8c4ee310704047fe9a8dfb471c7faa8933b52
